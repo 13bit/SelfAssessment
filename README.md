@@ -1,5 +1,7 @@
 ## Software engineering self assessment
 
+[![Skills](https://img.shields.io/badge/Self_Assessment-skills-009933?style=flat-square)](https://github.com/13bit/SelfAssessment)
+
 ## Skills
 
 - [Programming fundamentals](Skills/Programming.md)
@@ -12,7 +14,6 @@
 ## How to use
 
 - Fork repository
-- Enable Githib Actions workflows at tab `Actions` of your fork
 - Create branch, for example: `2024-winter`
 - In new branch add following levels or leave line untouched in each file:
   - `👂 heard`, `🎓 known`, `🖐️ used`, `🙋 explained`, `📢 talked`, `🔬 researched`, `🚀 constructed`
