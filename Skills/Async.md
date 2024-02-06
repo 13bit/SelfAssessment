@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  - Event loop: 👂 heard
+  - `try..catch`: 👂 heard
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -14,7 +14,7 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
+  - Dead locks: 👂 heard
   - Live locks
   - Concurrent programming
   - Parallel programming
@@ -22,11 +22,11 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 🖐️ used
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
@@ -38,16 +38,16 @@
   - Signal
   - Stream
   - Chain of responsibility
-  - Middleware
+  - Middleware: 🎓 known
   - Locks
 - Async adapters and utils
   - callbackify
-  - promisify
+  - promisify: 🎓 known
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter: 👂 heard
   - Observable/Observer
   - Readable
   - Writable
@@ -68,10 +68,10 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell: 🎓 known
   - Promise hell
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: 🎓 known
   - Better stack traces with return await
   - JSON streaming serialization
   - AsyncLocalStorage
@@ -79,7 +79,7 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
+  - Promise.all: 🖐️ used
   - Promise.allSettled
   - Promise.race
   - Promise.any

@@ -1,12 +1,12 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
+  - Modularity: 👂 heard
+  - Components: 🖐️ used
   - Directories
   - GRASP
-  - SOLID
-  - GoF patterns
+  - SOLID: 👂 heard
+  - GoF patterns: 👂 heard
   - CQS
   - Leaking abstractions
   - Multiparadigm code
@@ -14,7 +14,7 @@
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage: 👂 heard
   - Cohesion
   - Coupling
   - Cyclomatic complexity
@@ -57,7 +57,7 @@
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
