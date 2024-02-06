@@ -1,79 +1,79 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Model h
+  - Modeling h
+  - Subject domain h
+  - Algorithm h
+  - Syntax h
+  - Semantics h
+  - Abstraction h
   - Paradigm
   - Programm
   - Programming paradigm
   - Programming language
   - Contract
-  - Module
-  - Library
+  - Module k
+  - Library u
   - Package
-  - Component
-  - Framework
+  - Component u
+  - Framework u
   - Platform
-  - Source code
+  - Source code u
   - Object code
-  - Machine code
+  - Machine code k
   - Microcode
   - Software engineering
-  - Decomposition
+  - Decomposition u
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) h
+  - KISS principle k
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar k
+  - Literal h
+  - Expression h
+  - Heap h
+  - Function u
+  - Procedure k
+  - Method u
+  - Class u
+  - Prototype k
+  - Event h
+  - Type k
+  - Flag h
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
+  - Code block u
+  - Conditions u
+  - Loops u
+  - Assignment u
+  - Regular expression u
+  - Interface k
+  - Namespaces h
+  - Call stack k
+  - Naming conventions k
+  - Coding conventions k
+  - Camel case e
+  - Snake case h
+  - Kebab case h
+  - Trailing commas k
+  - Return early e
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typeing
-  - Duck typing
+  - Primitive types u
+  - Reference types u
+  - Type systems h
+  - Strong typing k
+  - Weak typeing k
+  - Duck typing h
   - Static typing
-  - Dynamic typing
+  - Dynamic typing u
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,92 +81,92 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
+  - Signature k
+  - Argument u
+  - Parameter u
+  - Pure function u
+  - Lambda expression u
+  - Side effects k
+  - Closure k
+  - Partial application h
+  - Currying h
+  - Higher order h
+  - Recursion k
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
+  - Callback u
+  - Listener h
+  - Composition h
   - Pipe
-  - Memoize
-  - Wrapper
+  - Memoize k
+  - Wrapper k
   - Functor
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array k
   - Structure
-  - Record
-  - Enum
-  - Instance
-  - Cbject
-  - Collection
-  - Set
-  - Hash table
+  - Record h
+  - Enum u
+  - Instance u
+  - Object u
+  - Collection h
+  - Set k
+  - Hash table k
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue k
+  - Stack k
   - Deque
-  - Tree
+  - Tree h
   - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Iterator h
+  - Mutable state k
+  - Immutable state k
+  - Serialization k
+  - String parsing k
+  - JSON u
   - JSON5
-  - YAML
+  - YAML h
 - Networking
   - DNS
-  - CDN
-  - CORS
+  - CDN k
+  - CORS k
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL k
   - URN
-  - URI
+  - URI h
 - Process and tools
-  - Compiler
+  - Compiler k
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter k
   - Polyfill
-  - Interpreter
+  - Interpreter h
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
+  - Runtime h
   - Virtual machine
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring k
+  - Code review k
   - Exception
-  - Unittesting
-  - git
-  - Hithub
-  - Docker
+  - Unittesting h
+  - git u
+  - Hithub k
+  - Docker k
   - Kubernetes
   - GCC
   - LLVM
@@ -182,15 +182,15 @@
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Unreachable code k
+  - Duplicate code k
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops k
   - Long method/function/procedure
   - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Large class/file k
+  - Too many parameters k
   - Pass-through parameters
   - Accumulate and fire
   - Use switch/case
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux u
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS u
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
